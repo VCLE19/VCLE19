@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis **E. V. C.**
+- 👋 Hi, I’m ***Luis E. V. C.***
 - 👀 I’m interested in learn about communications systems and servers
 - 🌱 I’m currently learning linux admin
 - 💞️ I’m looking to collaborate on ...
