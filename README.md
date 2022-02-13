@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Luis E. V. C.
-- 👀 I’m interested in ... 
+- 👋 Hi, I’m Luis **E. V. C.**
+- 👀 I’m interested in learn about communications systems and servers
 - 🌱 I’m currently learning linux admin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vclenrique19@gmail.com
